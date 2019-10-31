@@ -1,7 +1,7 @@
-# mnumerico
+# 🎉 mnumerico
 Proyecto de métodos numéricos
 
-## Demo
+## 🚀 Demo
 
 https://plaftware.github.io/mnumerico/
 
